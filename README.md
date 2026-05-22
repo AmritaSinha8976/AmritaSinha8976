@@ -17,27 +17,13 @@
 
 ## 🚀 About Me
 
-```python
-class Amrita:
-    location     = "India 🇮🇳"
-    education    = "B.Tech CSE — KIIT, Bhubaneswar (2021–2025)"
-    currently    = "Building things. Shipping things. Learning always."
-    open_to      = ["Full-Stack Roles", "Backend Engineering", "AI/ML Adjacent"]
-
-    def tech_stack(self):
-        return {
-            "backend"   : ["Python", "Django", "REST APIs"],
-            "frontend"  : ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
-            "databases" : ["PostgreSQL", "MySQL"],
-            "ai_nlp"    : ["Chatbot Dev", "NLP Integration", "Conversational AI"],
-            "tools"     : ["Git", "Postman", "Figma"],
-        }
-
-    def fun_fact(self):
-        return "I built a QR-verified certificate system before I had a certificate myself 😄"
-```
-
----
+- 🌍 Based in **India**
+- 🎓 **B.Tech CSE** — KIIT, Bhubaneswar (2021–2025)
+- 🔨 Currently **building things, shipping things, learning always**
+- 💼 Open to **Full-Stack · Backend Engineering · AI/ML Adjacent** roles
+- 🤖 Built an **AI-powered chatbot** deployed at production scale
+- 🎓 Built a **QR-verified certificate system** before I had a certificate myself 😄
+- 📬 Reach me at **amrittasinha45@gmail.com**
 
 ## 🛠️ What I've Shipped
 
