@@ -1,65 +1,111 @@
-<h1 align="center">Hi 👋, I'm Amrita Sinha</h1>
-<h3 align="center">Student at Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar 🌟</h3>
+<div align="center">
 
-<br>
+# Hi, I'm Amrita Sinha 👩‍💻
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=AmritaSinha8976&label=Profile%20views&color=0e75b6&style=flat" alt="AmritaSinha8976" />
-</p>
+### Full-Stack Developer · AI Builder · KIIT CSE '25
 
-<p align="right">
-    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="coding" width="400"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://amritasinha8976.github.io/Amrita.Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-sinha02/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/amritasinha5)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amrittasinha45@gmail.com)
 
-- 🌱 I’m currently learning **Web Development** and exploring other **programming languages**  
-- 📫 Reach me at **amrittasinha45@gmail.com**
+![Profile Views](https://komarev.com/ghpvc/?username=AmritaSinha8976&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
 
-<br>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/amrita-sinha02/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100091913092751" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-    </a>
-</p>
+---
 
-<br>
+## 🚀 About Me
 
-### 🛠️ Languages and Tools:
+```python
+class Amrita:
+    location     = "India 🇮🇳"
+    education    = "B.Tech CSE — KIIT, Bhubaneswar (2021–2025)"
+    currently    = "Building things. Shipping things. Learning always."
+    open_to      = ["Full-Stack Roles", "Backend Engineering", "AI/ML Adjacent"]
 
-<p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
+    def tech_stack(self):
+        return {
+            "backend"   : ["Python", "Django", "REST APIs"],
+            "frontend"  : ["HTML5", "CSS3", "Bootstrap", "JavaScript"],
+            "databases" : ["PostgreSQL", "MySQL"],
+            "ai_nlp"    : ["Chatbot Dev", "NLP Integration", "Conversational AI"],
+            "tools"     : ["Git", "Postman", "Figma"],
+        }
 
-<br>
+    def fun_fact(self):
+        return "I built a QR-verified certificate system before I had a certificate myself 😄"
+```
 
-<h3>📊 GitHub Stats:</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmritaSinha8976&show_icons=true&locale=en&layout=compact&bg_color=0d1117&text_color=ffffff" alt="top-langs"/>
-</p>
+---
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=AmritaSinha8976&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff" alt="github-stats"/>
-</p>
+## 🛠️ What I've Shipped
 
-<br>
+### 🎓 Techno Institute Platform &nbsp; [`→ Live`](https://technoinstitute.in)
+> Full-stack institute management system — student registration, online exams, typing tests, and automated QR-verified certificate generation with payment integration. Built solo in Django + Python + JavaScript + MySQL.
 
-<p align="center">
-    <a href="https://github.com/AmritaSinha8976" target="_blank">AmritaSinha8976</a>
-</p>
+### 🤖 AI-Powered Customer Chatbot
+> Designed and deployed an NLP-driven chatbot at **Oga Business Solutions** that automated customer query handling in production — integrated via REST APIs for real-time data retrieval, reducing manual support load measurably.
+
+### ✦ Personal Portfolio &nbsp; [`→ Live`](https://amritasinha8976.github.io/Amrita.Portfolio) &nbsp; [`→ Code`](https://github.com/AmritaSinha8976/Amrita.Portfolio)
+> Built from scratch — pure HTML, CSS, JavaScript. Dark/light toggle, typing animations, scroll effects. No framework. All fundamentals.
+
+### 🌙 LunarVR &nbsp; [`→ Figma`](https://shorturl.at/qTE54)
+> UI/UX design for a VR product — wireframes, interactive prototypes, user-centered flows in Figma.
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmritaSinha8976&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritaSinha8976&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmritaSinha8976&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 💼 Experience
+
+| Period | Role | Company |
+|--------|------|---------|
+| Oct 2025 – Mar 2026 | Web Developer | Techno Institute, Patna |
+| Dec 2024 – May 2025 | Software Developer Intern | Oga Business Solutions Pvt. Ltd. |
+
+---
+
+<div align="center">
+
+*"I don't just write code — I build things that work for real people."*
+
+⭐ **If you find my work interesting, feel free to star a repo or connect!**
+
+</div>
