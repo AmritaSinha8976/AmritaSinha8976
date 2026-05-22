@@ -22,9 +22,7 @@
 - 🔨 Currently **building things, shipping things, learning always**
 - 💼 Open to **Full-Stack · Backend Engineering · AI/ML Adjacent** roles
 - 🤖 Built an **AI-powered chatbot** deployed at production scale
-- 🎓 Built a **QR-verified certificate system** before I had a certificate myself 😄
-- 📬 Reach me at **amrittasinha45@gmail.com**
-
+- 🎓 Built a **QR-verified automated certificate generation system** for a real institute — students take an online typing/skill test, pass it, and instantly receive a digitally signed certificate with a unique QR code for secure verification. No manual process, no paperwork. Just code doing the work. 😄- 📬 Reach me at **amrittasinha45@gmail.com**
 ## 🛠️ What I've Shipped
 
 ### 🎓 Techno Institute Platform &nbsp; [`→ Live`](https://technoinstitute.in)
